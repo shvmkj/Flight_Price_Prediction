@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="src.trydjango.trydjango.urls.include" />
+          <option value="src.trydjango.trydjango.urls.pages" />
+          <option value="src.trydjango.trydjango.urls.*" />
+          <option value="products.models.Product.DoesNotExist" />
+          <option value="cv2.imread" />
+          <option value="cv2.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
